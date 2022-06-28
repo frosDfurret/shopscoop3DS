@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><eshop><title public="true" new="false" id="50010000041707"><product_code>CTR-U-KGBE</product_code><name>Azure Striker GUNVOLT 2
+Update Ver. 1.2</name><icon_url>https://kanzashi-ctr.cdn.nintendo.net/i/29f745cdc4e190f5b39d58187a3659cef39be10a46820d594a7d201f85444f08.jpg</icon_url><banner_url>https://kanzashi-ctr.cdn.nintendo.net/i/e38d3ffa4ad087591fafd79a6b2e15bdb61798fdb9c71516df9c3e4698c906e2.jpg</banner_url><thumbnails><thumbnail url="https://kanzashi-ctr.cdn.nintendo.net/i/e1dc9a13adba5250fb9f03cef50c8afbedfae375e59ff3a77f523facfd33a088.jpg" height="112" width="112" type="small"/></thumbnails><platform id="63" device="CTR" category="8"><name>Software Update</name></platform><publisher id="1308"><name>Inti Creates</name></publisher><display_genre>Update</display_genre><rating_info><rating_system id="202"><name>ESRB</name></rating_system><rating id="4"><icons><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg" type="normal"/><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg" type="small"/></icons><name>T</name><age>13</age></rating><descriptors><descriptor><name>Fantasy Violence</name></descriptor><descriptor><name>Mild Blood</name></descriptor><descriptor><name>Mild Language</name></descriptor><descriptor><name>Suggestive Themes</name></descriptor></descriptors></rating_info><release_date_on_eshop>2017-03-09</release_date_on_eshop><retail_sales>false</retail_sales><eshop_sales>true</eshop_sales><web_sales>true</web_sales><demo_available>false</demo_available><aoc_available>false</aoc_available><in_app_purchase>false</in_app_purchase><formal_name>Azure Striker GUNVOLT 2
+Update Ver. 1.2</formal_name><description>This is an update for Azure Striker Gunvolt 2 that adds compatibility for the game's DLC.
+&lt;br&gt;
+&lt;br&gt;Ver. 1.2
+&lt;br&gt;Compatibility for the new DLC missions has been added
+&lt;br&gt;
+&lt;br&gt;Compatibility for the new DLC "Speedrun Mode" has been added, which challenges players to complete the game as quickly as possible.
+&lt;br&gt;
+&lt;br&gt;Compatibility for the new DLC items that allow players to listen to new songs from the characters Joule and Lola has been added.
+&lt;br&gt;
+&lt;br&gt;Icons that display a skill's effects have been added to the display on the bottom screen.
+&lt;br&gt;
+&lt;br&gt;The characters status is now displayed on the customization screen.
+&lt;br&gt;
+&lt;br&gt;Furthermore, various bugs/other issues have been corrected to make the gameplay experience more enjoyable.
+&lt;br&gt;
+&lt;br&gt;Fixed a freeze that happened when defeating Teseo at a particular time.
+&lt;br&gt;
+&lt;br&gt;Fixed a freeze that happened in the instant Tenjian was defeated.
+&lt;br&gt;
+&lt;br&gt;Fixed a numerical error in Gunvolt's items in the Clips category.
+&lt;br&gt;
+&lt;br&gt;Fixed a behavioral problem with Copen's item "Shield Construct."
+&lt;br&gt;
+&lt;br&gt;Fixed a defect in Score Attack's score calculation.
+&lt;br&gt;
+&lt;br&gt;Fixed a problem with the player character's controls.
+&lt;br&gt;
+&lt;br&gt;Fixed a problem with a specific enemy's behavior.</description><genres length="1"><genre id="109"><name>Updates</name></genre></genres><keywords><keyword>Inti Creates</keyword></keywords><features><feature required="false" type="4"><id>12</id><name>Supports Online Play</name></feature><feature required="false" type="4"><id>6</id><name>Displays 3D Visuals</name></feature><feature required="false" type="4"><id>30</id><name>Nintendo Network</name><icons><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/233a88d20a1bc522ae130b8ffb72c35593e0605e0d35ebfbb4168840c2a7ca5e.png" type="normal"/><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/05a137cb151cc8c6be24849bbc758437727bd14cd847e7c2a3ee4f98f88428a9.jpg" type="small"/></icons></feature><feature required="false" type="6"><id>56</id><name>amiibo</name><icons><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/17428059e5a57bc9cbb7c68e1c34d0d384d649ae3e6508376d4676bad6d887ef.png" type="normal"/><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/7d986ec65edb925478057e358625be907d607bc12cd97587dffb7e71839fca4d.jpg" type="small"/></icons></feature></features><languages><language><iso_code>en</iso_code><name>English</name></language></languages><disclaimer>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.&lt;br&gt;Visit support.nintendo.com for information about storage options. Sold separately.</disclaimer><copyright><text>Â©INTI CREATES CO., LTD. 2016 ALL RIGHTS RESERVED.</text></copyright><ticket_available>false</ticket_available><data_size>28416868</data_size><download_code_sales>false</download_code_sales><download_card_sales available="false"/></title></eshop>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><eshop><title public="true" new="false" id="50010000041814"><product_code>CTR-N-KL8E</product_code><name>Plantera</name><icon_url>https://kanzashi-ctr.cdn.nintendo.net/i/d78b89e71bbdfb9ac233676ed7cdd6d2b992d48a7ffd5ae3a4e661414f2c1c1b.jpg</icon_url><banner_url>https://kanzashi-ctr.cdn.nintendo.net/i/18ba3ef7efc077232ae796ac987b96e2d9a1ec9f881cf66ec454ddfadd93aed9.jpg</banner_url><thumbnails><thumbnail url="https://kanzashi-ctr.cdn.nintendo.net/i/39ef8452bdb7eecb6e04fe5f0e0b95e3dcf953a032e0ac65bd8c51cc8808859e.jpg" height="112" width="112" type="small"/><thumbnail url="https://kanzashi-ctr.cdn.nintendo.net/i/7e8b958592989b31a2827cc19a0b597367b0292ad50e6273fb2ee0a84bfe66b4.jpg" height="112" width="112" type="small"/><thumbnail url="https://kanzashi-ctr.cdn.nintendo.net/i/d03b880ad8c8832671ffb64abfc9af56eaec79baa7018c16ff545250d738ece1.jpg" height="112" width="112" type="small"/></thumbnails><platform id="19" device="CTR" category="8"><name>Nintendo 3DS Download Only</name></platform><publisher id="1536"><name>Ratalaika Games</name></publisher><display_genre>Simulation / Strategy / Other</display_genre><rating_info><rating_system id="202"><name>ESRB</name></rating_system><rating id="2"><icons><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg" type="normal"/><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg" type="small"/></icons><name>E</name><age>6</age></rating><descriptors/></rating_info><star_rating_info><score>4.32</score><votes>274</votes><star1>7</star1><star2>12</star2><star3>37</star3><star4>79</star4><star5>139</star5></star_rating_info><release_date_on_eshop>2017-02-09</release_date_on_eshop><retail_sales>false</retail_sales><eshop_sales>true</eshop_sales><web_sales>true</web_sales><demo_available>true</demo_available><aoc_available>false</aoc_available><in_app_purchase>false</in_app_purchase><top_image><type>screenshot</type><url>https://kanzashi-ctr.cdn.nintendo.net/i/de2ea28928eab7f50b482c93b7d94bf6a235e6ccdf88ce359c6c05894174fc1a.jpg</url></top_image><formal_name>Plantera</formal_name><description>Download Plantera on Nintendo 3DS™ for free if you have already downloaded Plantera on Wii U™.
+&lt;br&gt;(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)
+&lt;br&gt;
+&lt;br&gt;Welcome to Plantera!
+&lt;br&gt;
+&lt;br&gt;In the world of Plantera you grow your own garden and breed plants and animals to earn coins with their produce.
+&lt;br&gt;Use the coins to buy new plants and animals, and also special items and garden expansions.
+&lt;br&gt;
+&lt;br&gt;Watch everything grow, help planting and harvesting, buy new things, and defend your garden from sneaky magpies, rabbits, foxes, and wolves.
+&lt;br&gt;
+&lt;br&gt;Raise your level and the productivity of your plants and animals!
+&lt;br&gt;Earn more and more, and create your own dream garden!
+&lt;br&gt;
+&lt;br&gt;Features:
+&lt;br&gt;
+&lt;br&gt;Relaxing gameplay.
+&lt;br&gt;Create your own garden and breed different kinds of plants and animals.
+&lt;br&gt;
+&lt;br&gt;Watch adorable creatures animated in a vivid, colorful and cartoony art style.
+&lt;br&gt;
+&lt;br&gt;Interact with full touch screen controls.
+&lt;br&gt;(designed for left-handers and right-handers)
+&lt;br&gt;
+&lt;br&gt;Experience a real-time innovation!
+&lt;br&gt;Your garden grows even when your system is powered off.
+&lt;br&gt;
+&lt;br&gt;BUY 1 AND TAKE 2!
+&lt;br&gt;Download Plantera on Nintendo 3DS™ for free if you have already downloaded Plantera on Wii U™.
+&lt;br&gt;(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)
+&lt;br&gt;
+&lt;br&gt;Invite your family or friends to have their own garden as well!
+&lt;br&gt;(3 save files per game)
+&lt;br&gt;
+&lt;br&gt;Listen to the beautiful soundtrack by Jesse Valentine.
+&lt;br&gt;
+&lt;br&gt;For Beginners:
+&lt;br&gt;A Tutorial and detailed In-Game Manual.
+&lt;br&gt;
+&lt;br&gt;For Experts:
+&lt;br&gt;21 unlockable Achievements.</description><genres length="3"><genre id="9"><name>Simulation</name></genre><genre id="13"><name>Strategy</name></genre><genre id="17"><name>Other</name></genre></genres><keywords><keyword>Ratalaika Games</keyword><keyword>Demo</keyword></keywords><languages><language><iso_code>en</iso_code><name>English</name></language><language><iso_code>es</iso_code><name>Spanish</name></language><language><iso_code>fr</iso_code><name>French</name></language></languages><number_of_players>1 player
+1</number_of_players><disclaimer>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.&lt;br&gt;Visit support.nintendo.com for information about storage options. Sold separately.</disclaimer><copyright><text>© 2016-2017 Ratalaika Games S.L.
+&lt;br&gt;© 2016-2017  VaragtP Studios</text></copyright><screenshots><screenshot><image_url type="upper">https://kanzashi-ctr.cdn.nintendo.net/i/de2ea28928eab7f50b482c93b7d94bf6a235e6ccdf88ce359c6c05894174fc1a.jpg</image_url><image_url type="lower">https://kanzashi-ctr.cdn.nintendo.net/i/a5f0252a9ae82bd979f156c15f5e72c6ee09d4f5520e3267acba56c453079176.jpg</image_url></screenshot><screenshot><image_url type="upper">https://kanzashi-ctr.cdn.nintendo.net/i/a021c9d482afc175d64a4cdc0b973c313145c5f9b666ee10fb60321c25c6a38b.jpg</image_url><image_url type="lower">https://kanzashi-ctr.cdn.nintendo.net/i/f71fa66ce00c5b1bb6feb7c95eb002ef478f6dc3c49399529fdc1a830a713b28.jpg</image_url></screenshot><screenshot><image_url type="upper">https://kanzashi-ctr.cdn.nintendo.net/i/2cff4bbc2cfedb08b5f32c48edc37f90137718cefc86f9ff75555852cdc72053.jpg</image_url><image_url type="lower">https://kanzashi-ctr.cdn.nintendo.net/i/d2412bbef9f40160104d7d6af9638db2d391b076f7572938338c2d4d439a205d.jpg</image_url></screenshot></screenshots><preference><target_player><everyone>97</everyone><gamers>3</gamers></target_player><play_style><casual>96</casual><intense>4</intense></play_style></preference><web_sites><web_site><name>Ratalaika Games Website</name><url>http://www.ratalaikagames.com/games/plantera.php</url><official>false</official></web_site><web_site><name>VaragtP Studios Website</name><url>http://www.varagtp.com/</url><official>false</official></web_site></web_sites><demo_titles><demo_title id="50030000009526"><name>Plantera Demo</name><icon_url>https://kanzashi-ctr.cdn.nintendo.net/i/d78b89e71bbdfb9ac233676ed7cdd6d2b992d48a7ffd5ae3a4e661414f2c1c1b.jpg</icon_url></demo_title></demo_titles><ticket_available>false</ticket_available><data_size>15010660</data_size><download_code_sales>false</download_code_sales><download_card_sales available="false"/></title></eshop>

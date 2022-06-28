@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><eshop><title public="true" new="false" id="50010000043059"><product_code>CTR-U-J2VE</product_code><name>MIGHTY GUNVOLT BURST
+Update Ver. 1.3.1</name><icon_url>https://kanzashi-ctr.cdn.nintendo.net/i/b20ae2e44524518981a3cde1d714e05ae22774b371fe21e7e68c28414201722d.jpg</icon_url><banner_url>https://kanzashi-ctr.cdn.nintendo.net/i/3fc4d2b6b07fe5f54e0b1a10f0c2b5066fa9a0e7632b20abc6bad7e6118212e6.jpg</banner_url><thumbnails><thumbnail url="https://kanzashi-ctr.cdn.nintendo.net/i/31fbd8e335bb28265e2b9f10979af1fe4ca8322b6a3660169582d79f02a56cd6.jpg" height="112" width="112" type="small"/></thumbnails><platform id="63" device="CTR" category="8"><name>Software Update</name></platform><publisher id="1308"><name>Inti Creates</name></publisher><display_genre>Update</display_genre><rating_info><rating_system id="202"><name>ESRB</name></rating_system><rating id="2"><icons><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg" type="normal"/><icon url="https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg" type="small"/></icons><name>E</name><age>6</age></rating><descriptors><descriptor><name>Mild Fantasy Violence</name></descriptor></descriptors></rating_info><release_date_on_eshop>2018-05-09</release_date_on_eshop><retail_sales>false</retail_sales><eshop_sales>true</eshop_sales><web_sales>true</web_sales><demo_available>false</demo_available><aoc_available>false</aoc_available><in_app_purchase>false</in_app_purchase><formal_name>MIGHTY GUNVOLT BURST
+&lt;br&gt;Update Ver. 1.3.1</formal_name><description>This is an update for the game card version of the MIGHTY GUNVOLT BURST game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of MIGHTY GUNVOLT BURST.
+&lt;br&gt;
+&lt;br&gt;Update Summary:
+&lt;br&gt;For the various effects and actions affected by the current Burst Combo, they will now change according to the following:
+&lt;br&gt;Lv.1： 0
+&lt;br&gt;Lv.2： 1-4
+&lt;br&gt;Lv.3： 5-9
+&lt;br&gt;Lv.4： 10-19
+&lt;br&gt;Lv.5： 20-29
+&lt;br&gt;Lv.6： 30+
+&lt;br&gt;
+&lt;br&gt;The power of Gunvolt’s “Voltaic Chains” ability has been increased.
+&lt;br&gt;
+&lt;br&gt;The power of the charge attack on Copen’s “Brave Horn” EX Weapon has been increased.
+&lt;br&gt;
+&lt;br&gt;RAY and Copen are now able to acquire the following rare item (treasure):
+&lt;br&gt;P-PS MIAPLACIDUS (Module which allows the use of STATIONARY FIRING)
+&lt;br&gt;
+&lt;br&gt;The following issues have been fixed:
+&lt;br&gt;In some cases, destroying enemy bullets would incorrectly score points.
+&lt;br&gt;An incorrect edit item was present under Beck’s MINE bullet type.
+&lt;br&gt;Various other issues have been fixed to improve game experience.</description><genres length="1"><genre id="109"><name>Updates</name></genre></genres><keywords/><features><feature required="false" type="9"><id>57</id><name>Enhanced for New 3DS</name></feature></features><languages><language><iso_code>en</iso_code><name>English</name></language></languages><disclaimer>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.&lt;br&gt;Visit support.nintendo.com for information about storage options. Sold separately.</disclaimer><ticket_available>false</ticket_available><data_size>14052196</data_size><download_code_sales>false</download_code_sales><download_card_sales available="false"/></title></eshop>

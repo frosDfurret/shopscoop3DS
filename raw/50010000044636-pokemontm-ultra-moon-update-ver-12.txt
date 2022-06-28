@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><eshop><title public="true" new="false" id="50010000044636"><product_code>CTR-U-A2BA</product_code><name>Pokémon™ Ultra Moon
+Update Ver. 1.2</name><icon_url>https://kanzashi-ctr.cdn.nintendo.net/i/dd3f95b56f0ff55d29231712421a620f06e9339d00647cbe6ddad46230cdb7dc.jpg</icon_url><banner_url>https://kanzashi-ctr.cdn.nintendo.net/i/8952453577a57f30a31cdf87b809907fc451161aa7abbadc47813a780fb0af30.jpg</banner_url><thumbnails><thumbnail url="https://kanzashi-ctr.cdn.nintendo.net/i/3f5c4bd473352b686a50eadad3d9d3e635cfa8eacbfeefaf1a2c8e753665b16c.jpg" height="112" width="112" type="small"/></thumbnails><platform id="63" device="CTR" category="8"><name>Software Update</name></platform><publisher id="210"><name>The Pokémon Company</name></publisher><display_genre>Update</display_genre><release_date_on_eshop>2017-12-13</release_date_on_eshop><retail_sales>false</retail_sales><eshop_sales>true</eshop_sales><web_sales>true</web_sales><demo_available>false</demo_available><aoc_available>false</aoc_available><in_app_purchase>false</in_app_purchase><formal_name>Pokémon™ Ultra Moon
+Update Ver. 1.2</formal_name><description>An update for Pokémon™ Ultra Moon is now available from Nintendo eShop.
+&lt;br&gt;
+All customers who own a copy of Pokémon™ Ultra Moon should download the update. This will update the software to Version 1.2 with the following amendments:
+&lt;br&gt;
+Various bug fixes.
+&lt;br&gt;
+&lt;br&gt;Once the update has been downloaded, it will be installed automatically.
+&lt;br&gt;
+&lt;br&gt;We apologize for any inconvenience caused, and recommend downloading this update to ensure a smooth game experience.</description><genres length="1"><genre id="109"><name>Updates</name></genre></genres><keywords><keyword>Pokémon</keyword><keyword>Nintendo</keyword></keywords><disclaimer>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.
+&lt;br&gt;Visit support.nintendo.com for information about storage options. Sold separately.</disclaimer><copyright><text>© 2017 Pokémon. © 1995-2017 Nintendo/Creatures Inc./GAME FREAK inc. Pokémon and Nintendo 3DS are trademarks of Nintendo. © 2016 Nintendo.</text></copyright><ticket_available>false</ticket_available><data_size>70118196</data_size><download_code_sales>false</download_code_sales><download_card_sales available="false"/></title></eshop>

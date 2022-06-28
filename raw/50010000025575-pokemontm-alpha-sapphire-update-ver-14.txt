@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><eshop><title public="true" new="false" id="50010000025575"><product_code>CTR-U-ECLA</product_code><name>Pokémon™ Alpha Sapphire
+Update Ver. 1.4</name><icon_url>https://kanzashi-ctr.cdn.nintendo.net/i/e51a33d74957d0bec231aa908e10847195726cdd3d2af7778c0fd1fb1499c748.jpg</icon_url><banner_url>https://kanzashi-ctr.cdn.nintendo.net/i/1b7f190cfd39dac14b6abf779bdc1fefb4e5b4b3a39b289e8e540101673c9c06.jpg</banner_url><thumbnails><thumbnail url="https://kanzashi-ctr.cdn.nintendo.net/i/c2313204c7cc7a6211c2d26a63e81ba5d1dca4514907e1d962104d31bfd2add5.jpg" height="112" width="112" type="small"/></thumbnails><platform id="63" device="CTR" category="8"><name>Software Update</name></platform><publisher id="210"><name>The Pokémon Company</name></publisher><display_genre>Update</display_genre><release_date_on_eshop>2015-04-22</release_date_on_eshop><retail_sales>false</retail_sales><eshop_sales>true</eshop_sales><web_sales>true</web_sales><demo_available>false</demo_available><aoc_available>false</aoc_available><in_app_purchase>false</in_app_purchase><formal_name>Pokémon™ Alpha Sapphire
+Update Ver. 1.4</formal_name><description>An update is available for Pokémon Alpha Sapphire.  
+&lt;br&gt;&lt;br&gt;
+Update Details: 
+Adjustments have been made for an improved gaming experience.
+&lt;br&gt;&lt;br&gt;
+Users will need to download the software update prior to using the following online features:
+Connecting to the Internet using the Player Search System
+Using Wonder Trade
+Using Game Sync
+Connecting to the Global Trade Station
+Redeeming a Mystery Gift
+&lt;br&gt;&lt;br&gt;
+This update also includes all previous updates.</description><genres length="1"><genre id="109"><name>Updates</name></genre></genres><keywords/><languages><language><iso_code>en</iso_code><name>English</name></language><language><iso_code>es</iso_code><name>Spanish</name></language><language><iso_code>fr</iso_code><name>French</name></language></languages><disclaimer>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.
+Visit support.nintendo.com for information about storage options. Sold separately.
+</disclaimer><copyright><text>© 2014 Pokémon. © 1995 - 2014 Nintendo/Creatures Inc./GAME FREAK inc. Pokémon and Nintendo 3DS are trademarks of Nintendo. © 2014 Nintendo.</text></copyright><ticket_available>false</ticket_available><data_size>35027764</data_size><download_code_sales>false</download_code_sales><download_card_sales available="false"/></title></eshop>
